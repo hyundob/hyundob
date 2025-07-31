@@ -2,7 +2,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyundob&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyundob&show_icons=true&theme=radical)
+![GoLang](https://img.shields.io/badge/Go-00AED8?style=flat-square&logo=Go&logoColor=white)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyundob&show_icons=true&theme=radical) -->
+
 <!--
 **hyundob/hyundob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
